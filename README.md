@@ -11,3 +11,5 @@ make build
 ```
 make darwin
 ```
+
+![demo](demo.gif)
